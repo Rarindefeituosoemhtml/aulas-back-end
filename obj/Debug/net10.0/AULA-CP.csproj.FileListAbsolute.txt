@@ -1,0 +1,14 @@
+C:\Users\57799011807\Desktop\AULA-CP\bin\Debug\net10.0\AULA-CP.exe
+C:\Users\57799011807\Desktop\AULA-CP\bin\Debug\net10.0\AULA-CP.deps.json
+C:\Users\57799011807\Desktop\AULA-CP\bin\Debug\net10.0\AULA-CP.runtimeconfig.json
+C:\Users\57799011807\Desktop\AULA-CP\bin\Debug\net10.0\AULA-CP.dll
+C:\Users\57799011807\Desktop\AULA-CP\bin\Debug\net10.0\AULA-CP.pdb
+C:\Users\57799011807\Desktop\AULA-CP\obj\Debug\net10.0\AULA-CP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57799011807\Desktop\AULA-CP\obj\Debug\net10.0\AULA-CP.AssemblyInfoInputs.cache
+C:\Users\57799011807\Desktop\AULA-CP\obj\Debug\net10.0\AULA-CP.AssemblyInfo.cs
+C:\Users\57799011807\Desktop\AULA-CP\obj\Debug\net10.0\AULA-CP.csproj.CoreCompileInputs.cache
+C:\Users\57799011807\Desktop\AULA-CP\obj\Debug\net10.0\AULA-CP.dll
+C:\Users\57799011807\Desktop\AULA-CP\obj\Debug\net10.0\refint\AULA-CP.dll
+C:\Users\57799011807\Desktop\AULA-CP\obj\Debug\net10.0\AULA-CP.pdb
+C:\Users\57799011807\Desktop\AULA-CP\obj\Debug\net10.0\AULA-CP.genruntimeconfig.cache
+C:\Users\57799011807\Desktop\AULA-CP\obj\Debug\net10.0\ref\AULA-CP.dll
