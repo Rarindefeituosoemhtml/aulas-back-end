@@ -497,4 +497,4 @@ using System.Runtime.Intrinsics.X86;
     
     Console.WriteLine($"senha correta"); // ISSO IMPRIME NO CONSOLE A MENSAGEM "SENHA CORRETA" PARA O USUÁRIO, APÓS O LAÇO DE REPETIÇÃO SER INTERROMPIDO, O QUE SIGNIFICA QUE O USUÁRIO DIGITOU A SENHA CORRETA.
 
- 
+ //==================================================================================================================================y65
